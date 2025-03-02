@@ -36,8 +36,8 @@
 ## Мои проекты
 1. **[VeterinaryClinic](https://github.com/69Loony69/VeterinaryClinic)**  
    Информационная система для ветеринарной клинки. Реализован интерфейс на WPF и подключена база данных SQL.  
-2. **[MatrixCalculator](https://github.com/Kenny14Mccormick/MatrixCalculator)**  
-   Матричный калькулятор на WPF с операциями над матрицами и функцией сохранения/загрузки данных.  
+2. **[VeterinaryClinic 1С](https://github.com/69Loony69/VeterinaryClinic_1-)**  
+   Конфигурация 1С для ветеринарной клиники.
 
 ## Контакты
 - **Email**: [bitter_moon_7@bk.ru](mailto:bitter_moon_7@bk.ru)  
