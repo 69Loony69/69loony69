@@ -34,8 +34,8 @@
 
 
 ## Мои проекты
-1. **[PharmaceuticalWarehouse](https://github.com/Kenny14Mccormick/PharmaceuticalWarehouse)**  
-   Информационная система для аптечного склада. Реализовал интерфейс на WPF и подключил базу данных SQL для учёта заявок.  
+1. **[VeterinaryClinic](https://github.com/69Loony69/VeterinaryClinic)**  
+   Информационная система для ветеринарной клинки. Реализован интерфейс на WPF и подключена база данных SQL.  
 2. **[MatrixCalculator](https://github.com/Kenny14Mccormick/MatrixCalculator)**  
    Матричный калькулятор на WPF с операциями над матрицами и функцией сохранения/загрузки данных.  
 
